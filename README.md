@@ -1,1 +1,1 @@
-* Welcome to Web Design At Centennial College
+Welcome to Web Design At Centennial College
